@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFYhR8wsj3yucdctB8KFcKCwCLBwRUZvJhmLWhu9f9vqvInVee3W0e/VqAqwgmuZc8qd3uz1C1RDwh8NotV0sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Documents\\BasicWPF-main\\EmployeeWPF\\RecipeWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
