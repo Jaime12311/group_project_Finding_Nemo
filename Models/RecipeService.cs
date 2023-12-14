@@ -16,7 +16,7 @@ namespace RecipeWPF.Models
         {
             recipesList = new List<Recipe>
             {
-                new Recipe { Name = "Chocolate Cake", Ingredients = "Flour, Sugar, Cocoa", Instructions = "Bake at 350°F" }
+                new Recipe { Name = "Vanilla Cake", Ingredients = "flour, baking powder, salt, vanilla extract, Egg", Instructions = "Bake at  350°F (180°C)" }
             };
         }
 
